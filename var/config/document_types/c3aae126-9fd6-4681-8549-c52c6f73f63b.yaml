@@ -1,0 +1,14 @@
+pimcore:
+    documents:
+        doc_types:
+            definitions:
+                c3aae126-9fd6-4681-8549-c52c6f73f63b:
+                    name: Product
+                    group: ''
+                    controller: null
+                    template: null
+                    type: page
+                    priority: 0
+                    creationDate: 1685037311
+                    modificationDate: 1685037460
+                    staticGeneratorEnabled: false
